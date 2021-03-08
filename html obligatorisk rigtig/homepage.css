@@ -1,0 +1,35 @@
+
+
+
+
+.responsive {
+    width: 100%;
+    Height: auto;
+}
+.responsive1 {
+    width: 30%;
+    Height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.responsive2{
+    width: 20%;
+    Height: auto;
+}
+
+.righttext {
+    text-align: right;
+}
+.centertext {
+    text-align: center;
+}
+
+.centertext1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.fontsize1 {
+    font-size: 2rem;
+}
